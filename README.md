@@ -6,6 +6,6 @@ user-agent json list for crawl
 
 * remove some too short(< 48 length)
 
-* remove some not begion with 'Mozilla'
+* remove some not begin with 'Mozilla'
 
 refer to: http://www.useragentstring.com/

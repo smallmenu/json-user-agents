@@ -1,9 +1,11 @@
 # json-user-agents
 
-user-agent list for crawl
+user-agent json list for crawl
+
+* for pc and mobile 
+
+* remove some too short(< 48 length)
+
+* remove some not begion with 'Mozilla'
 
 refer to: http://www.useragentstring.com/
-
-for PC and Mobile
-
-and remove some user-agents too short(< 48 length)
